@@ -5,3 +5,4 @@ __pycache__/
 .env
 
 models/*.pklgit status
+/models/best_random_forest_model.pkl
